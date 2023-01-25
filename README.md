@@ -3,7 +3,8 @@ to pick up items and recieve points or upgrades. It was a little difficult for m
 small details of being interactive. 
 I wanted to make a smaller project and was thinking of games I use to play when I was younger and had thought of tic tac toe.
 I did feel it could be an oppritunity for me to really work in css since we had a lot of class time practicing. 
-I wanted a small score board and an option to clear the board to start new. 
+I wanted a small score board and an option to clear the board to start new. I've seen a lot of code for this
+game as well and had help creating and understanding.
 
 Additional notes since creation: I did have help with one of my friends for the javascript section and I still 
 need more work on understanding js code. I am working on remembering how to connect my css to my html.
